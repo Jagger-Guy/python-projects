@@ -1,6 +1,7 @@
 # python-projects
 
-my completed python projects using tkinter
+my completed python projects using tkinter.
+
 a.py will not work normally. you must go into terminal and type `pip install customtkinter`.
 
 cube.py is a simple collision test i made. if i was bothered, i could make a maze game, but it's too tedious as i have to make each collision for each side of a wall manually. and yes, i am aware of the existence of pygame.
